@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map For Morse
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+My_DS18b20	KEYWORD1	
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+
+  release KEYWORD2
+  init KEYWORD2
+  write_byte KEYWORD2
+  read_byte KEYWORD2
+  high		KEYWORD2
+  low		KEYWORD2
+
+
+
+# My_DS18b20 Class
+
+
+
